@@ -15,8 +15,6 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.show-sql=true
 ```
 Jetzt verbinden mit View -> Tool Windows -> Database -> + -> MySQL. Hier die Datenbankinformationen eingeben und auf OK klicken.
-![img.png](img.png)
-Test Connection anklicken, um die Verbindung zu überprüfen. Falls erfolgreich, ist die Datenbank erfolgreich verbunden.
 
 Um zu testen, ob die Verbindung funktioniert:
 ```bash
